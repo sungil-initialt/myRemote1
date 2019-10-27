@@ -1,1 +1,2 @@
 initialt from local
+b1에서 테스트 해봄 필요한듯 하여 추가
